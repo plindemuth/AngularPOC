@@ -1,0 +1,12 @@
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\bin\Debug\net5.0\ApiUtilities.deps.json
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\bin\Debug\net5.0\ApiUtilities.dll
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\bin\Debug\net5.0\ref\ApiUtilities.dll
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\bin\Debug\net5.0\ApiUtilities.pdb
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.AssemblyInfoInputs.cache
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.AssemblyInfo.cs
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.csproj.CoreCompileInputs.cache
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.dll
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ref\ApiUtilities.dll
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.pdb
+C:\Users\paulh\LPL\Parser-Backend\ApiUtilities\obj\Debug\net5.0\ApiUtilities.csproj.AssemblyReference.cache

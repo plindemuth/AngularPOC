@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParserAPI\\ExcelParserAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj",
+        "projectName": "ApiUtilities",
+        "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj",
+        "packagesPath": "C:\\Users\\paulh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Net.Http.Headers": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj",
+        "projectName": "DatabaseUtility",
+        "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj",
+        "packagesPath": "C:\\Users\\paulh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParser.Service\\ExcelParser.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParser.Service\\ExcelParser.Service.csproj",
+        "projectName": "ExcelParser.Service",
+        "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParser.Service\\ExcelParser.Service.csproj",
+        "packagesPath": "C:\\Users\\paulh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParser.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj": {
+                "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj"
+              },
+              "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj": {
+                "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParserAPI\\ExcelParserAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParserAPI\\ExcelParserAPI.csproj",
+        "projectName": "ExcelParserAPI",
+        "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParserAPI\\ExcelParserAPI.csproj",
+        "packagesPath": "C:\\Users\\paulh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParserAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj": {
+                "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ApiUtilities\\ApiUtilities.csproj"
+              },
+              "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj": {
+                "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\DatabaseConnector\\DatabaseUtility.csproj"
+              },
+              "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParser.Service\\ExcelParser.Service.csproj": {
+                "projectPath": "C:\\Users\\paulh\\LPL\\Parser-Backend\\ExcelParser.Service\\ExcelParser.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

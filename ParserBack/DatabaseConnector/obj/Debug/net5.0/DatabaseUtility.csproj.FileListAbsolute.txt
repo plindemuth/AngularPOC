@@ -1,0 +1,12 @@
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.AssemblyInfoInputs.cache
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.AssemblyInfo.cs
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.csproj.CoreCompileInputs.cache
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\bin\Debug\net5.0\DatabaseUtility.deps.json
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\bin\Debug\net5.0\DatabaseUtility.dll
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\bin\Debug\net5.0\ref\DatabaseUtility.dll
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\bin\Debug\net5.0\DatabaseUtility.pdb
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.dll
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\ref\DatabaseUtility.dll
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.pdb
+C:\Users\paulh\LPL\Parser-Backend\DatabaseConnector\obj\Debug\net5.0\DatabaseUtility.csproj.AssemblyReference.cache

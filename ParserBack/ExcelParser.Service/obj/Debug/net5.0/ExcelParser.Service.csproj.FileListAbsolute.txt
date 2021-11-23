@@ -1,0 +1,17 @@
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\ExcelParser.Service.deps.json
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\ExcelParser.Service.dll
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\ref\ExcelParser.Service.dll
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\ExcelParser.Service.pdb
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.csproj.AssemblyReference.cache
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.AssemblyInfoInputs.cache
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.AssemblyInfo.cs
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.csproj.CoreCompileInputs.cache
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.dll
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ref\ExcelParser.Service.dll
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.pdb
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\DatabaseUtility.dll
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\DatabaseUtility.pdb
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\obj\Debug\net5.0\ExcelParser.Service.csproj.CopyComplete
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\ApiUtilities.dll
+C:\Users\paulh\LPL\Parser-Backend\ExcelParser.Service\bin\Debug\net5.0\ApiUtilities.pdb

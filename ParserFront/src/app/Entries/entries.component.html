@@ -1,0 +1,42 @@
+<div class="card">
+    <div class="card-header">
+        {{pageTitle}}
+    </div>
+    <div class='card-body'>
+        <div class='row'>
+            <div class='col-md-6'>
+                <h4>Filtered by: {{entryFilter}}</h4>
+            </div>
+        </div>
+        <div class='table-responsive'>
+            <table class='table' *ngIf="entries.length">
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Age</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                    </tr>
+                    <tr>
+                        <div class='row'>
+                            <div class='col-md-6'>
+                                <input type='text' 
+                                [(ngModel)]='entryFilter'/>
+                            </div>
+                        </div>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let entry of filteredEntries'>
+                        <td>{{entry.firstName}}</td>
+                        <td>{{entry.lastName}}</td>
+                        <td>{{entry.age}}</td>
+                        <td>{{entry.email}}</td>
+                        <td>{{entry.phone}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

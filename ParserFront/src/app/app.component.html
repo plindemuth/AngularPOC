@@ -1,0 +1,15 @@
+<div class="center">
+    <h1>{{pageTitle}}</h1>
+</div>
+<div class="center">
+    <h2>{{description}}</h2>
+</div>
+<form class="center" [formGroup]="form" id="uploadForm" (ngSubmit)="uploadSpreadsheet()">
+    <div class="center, form-group">
+        <input #fileSelector type="file"  mat-raised-button color="primary" accept=".xls, .xlsx" ngFileSelect (change)="attachForm($event)"/>
+        <button mat-raised-button color="primary">Upload Spreadsheet</button>
+    </div>
+</form>
+<div >
+    <ep-entries></ep-entries>
+</div>
